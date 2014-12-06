@@ -5,3 +5,4 @@ Hi, I'm Ellie. Attempting to learn git/git hub so I can be more awesome. So far,
 *Html
 *CSS
 *Knockout
+*Killing history using git rebase
